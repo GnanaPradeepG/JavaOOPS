@@ -66,6 +66,9 @@ class TriArea extends Shape
 	}
 }
 
+
+//====================user logic class==================
+
 class AbstractProgram4
 {
 	public static void main(String[] args)

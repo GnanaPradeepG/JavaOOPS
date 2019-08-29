@@ -17,7 +17,7 @@ class Sample10_2 extends Sample10_1 implements Demo10
 
 	public void test2()
 	{
-		System.out.println("In test2");
+		System.out.println("in test2");
 	}
 }
 class  InterfacePrg10
